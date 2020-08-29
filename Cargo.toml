@@ -1,13 +1,13 @@
 [package]
-name = "coffee"
-version = "0.1.0"
 authors = ["Terkwood <38859656+Terkwood@users.noreply.github.com>"]
 edition = "2018"
+name = "coffee"
+version = "0.0.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-yew = "0.17.3"
-web-sys = "0.3.44"
 chrono = "0.4.15"
 js-sys = "0.3.44"
+web-sys = "0.3.44"
+yew = "0.17.3"
